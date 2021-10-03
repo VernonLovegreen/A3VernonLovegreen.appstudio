@@ -1,3 +1,4 @@
+/*
 let wantToContinue = true
 let cities = []
 
@@ -18,3 +19,4 @@ while (i < cities.length) {
   console.log(cities[i].toLowerCase())
   i++;
 }
+*/
